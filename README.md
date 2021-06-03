@@ -5,6 +5,3 @@
 
 假如大家对路由器开发感兴趣，可以关注下<跟着佐大学OpenWrt开发>系列培训班  http://forgotfun.org/openwrt-training.html
 
-# 赞助佐须之男
-
-![](https://raw.githubusercontent.com/ForgotFun/QosDocs/master/donate.png)
